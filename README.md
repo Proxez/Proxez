@@ -105,7 +105,6 @@ E-commerce order management desktop app with full CRUD — all powered by stored
 | Project | Type | Stack |
 |---|---|---|
 | 🛍️ **WebShop Projects** | Multiple iterations (OOP → MAUI → Console) | C# |
-| 🌐 **permission-portal** | Web app (Lovable experiment) | TypeScript · CSS |
 | 👥 **EmployeeApp.Web** | Group project — web app | C# · HTML |
 | 🛒 **Grupparbete-Ecommerce** | Group project — e-commerce frontend | HTML · CSS · JS |
 | 📝 **Grupparbete-Blogg** | Group project — blog | — |
