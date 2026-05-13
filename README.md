@@ -112,7 +112,6 @@ E-commerce order management desktop app with full CRUD — all powered by stored
 | 🎮 **HangmanFunVersion** | Hangman game | C# |
 | ✅ **ToDoApp** | CRUD todo app | C# · .NET MAUI |
 | 🤖 **DiscordBot** | Discord bot (WIP) | C# |
-| 🗄️ **PostgreSQL_checkschedule** | PostgreSQL scheduling | PostgreSQL |
 
 ---
 
