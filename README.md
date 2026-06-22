@@ -107,7 +107,7 @@ E-commerce order management desktop app with full CRUD — all powered by stored
 | 🛍️ **WebShop Projects** | Multiple iterations (OOP → MAUI → Console) | C# |
 | 👥 **EmployeeApp.Web** | Group project — web app | C# · HTML |
 | 🛒 **Grupparbete-Ecommerce** | Group project — e-commerce frontend | HTML · CSS · JS |
-| 📝 **Grupparbete-Blogg** | Group project — blog | — |
+| 📝 **Grupparbete-Blogg** | Group project — blog | PHP · HTML · CSS · XAMPP |
 | 🐘 **myCode** | PHP projects collection | PHP · XAMPP |
 | 🎮 **HangmanFunVersion** | Hangman game | C# |
 | ✅ **ToDoApp** | CRUD todo app | C# · .NET MAUI |
