@@ -1,10 +1,10 @@
 # 💫 About Me:
 
 👋 Hey there!<br>
-I'm Proxez, a .NET developer who loves building things across the entire stack — from desktop apps and APIs to full-stack web applications. If it involves C# and solving problems, I'm in. 🧑‍💻<br><br>
+I'm Viktor, a .NET developer who loves building things across the entire stack — from desktop apps and APIs to full-stack web applications. If it involves C# and solving problems, I'm in. 🧑‍💻<br><br>
 🔭 Currently exploring **LLMs and AI Agents** — fascinated by what's possible when you combine code with intelligence.<br>
 🏆 Participated in the **Smart Stridsledning Hackathon** — built a military C2 simulation with React, Python, and two LLMs generating attack/defense scenarios.<br>
-⚡ When I'm not coding, you might find me raiding in WoW (yes, I built a Windows Forms app for my raid team 🍬).<br><br>
+⚡ When I'm not coding, you might find me raiding in WoW (yes, I built a Windows Forms app for my raid team).<br><br>
 🚀 **What I'm All About:**<br>
 Building full-stack web apps with Blazor and ASP.NET Core<br>
 Designing clean APIs with proper architecture<br>
