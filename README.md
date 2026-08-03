@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👋 Hey there!<br>
-I'm Viktor, a .NET developer who loves building things across the entire stack — from desktop apps and APIs to full-stack web applications. If it involves C# and solving problems, I'm in. 🧑‍💻<br><br>
+I'm Viktor, a .NET developer who loves building things across the entire stack from desktop apps and APIs to full-stack web applications. If it involves C# and solving problems, I'm in. 🧑‍💻<br><br>
 🔭 Currently exploring **LLMs and AI Agents** — fascinated by what's possible when you combine code with intelligence.<br>
 🏆 Participated in the **Smart Stridsledning Hackathon** — built a military C2 simulation with React, Python, and two LLMs generating attack/defense scenarios.<br>
 ⚡ When I'm not coding, you might find me raiding in WoW (yes, I built a Windows Forms app for my raid team).<br><br>
@@ -107,7 +107,6 @@ E-commerce order management desktop app with full CRUD — all powered by stored
 | 👥 **EmployeeApp.Web** | Group project — web app | C# · HTML |
 | 🛒 **Grupparbete-Ecommerce** | Group project — e-commerce frontend | HTML · CSS · JS |
 | 📝 **Grupparbete-Blogg** | Group project — blog | PHP · HTML · CSS · XAMPP |
-| 🐘 **myCode** | PHP projects collection | PHP · XAMPP |
 | 🎮 **HangmanFunVersion** | Hangman game | C# |
 | ✅ **ToDoApp** | CRUD todo app | C# · .NET MAUI |
 | 🤖 **DiscordBot** | Discord bot (WIP) | C# |
