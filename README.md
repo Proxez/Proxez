@@ -9,7 +9,7 @@ My main experience includes ASP.NET Core, Web APIs, Entity Framework Core, SQL, 
 
 🏆 Participated in the Smart Stridsledning Hackathon, where I built a military command & control simulation using React, Python and two LLMs to generate dynamic attack and defense scenarios.
 
-⚡ **My background is also a little different: before moving into software development, I spent 10+ years working with electrical systems, automation and technical troubleshooting. That experience has shaped how I approach software with a strong focus on problem-solving, reliability and practical solutions.**
+⚡ My background is also a little different: before moving into software development, I spent 10+ years working with electrical systems, automation and technical troubleshooting. That experience has shaped how I approach software with a strong focus on problem-solving, reliability and practical solutions.
 ---
 
 ## 🌐 Socials:
