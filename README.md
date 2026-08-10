@@ -1,16 +1,15 @@
 # 💫 About Me:
 
-👋 Hey there!<br>
-I'm Viktor, a .NET developer who loves building things across the entire stack from desktop apps and APIs to full-stack web applications. If it involves C# and solving problems, I'm in. 🧑‍💻<br><br>
-🔭 Currently exploring **LLMs and AI Agents** — fascinated by what's possible when you combine code with intelligence.<br>
-🏆 Participated in the **Smart Stridsledning Hackathon** — built a military C2 simulation with React, Python, and two LLMs generating attack/defense scenarios.<br>
-⚡ When I'm not coding, you might find me raiding in WoW (yes, I built a Windows Forms app for my raid team).<br><br>
-🚀 **What I'm All About:**<br>
-Building full-stack web apps with Blazor and ASP.NET Core<br>
-Designing clean APIs with proper architecture<br>
-Bridging real-time data with MQTT and Apache Kafka<br>
-Always learning, always shipping<br>
+👋 Hey, I'm Viktor<br>
+I'm a Junior .NET / Backend Developer focused on building practical software with C# and .NET. I enjoy working with backend systems, APIs, databases and connected devices — especially when software has to interact with the real world.
 
+My main experience includes ASP.NET Core, Web APIs, Entity Framework Core, SQL, Blazor Server, Docker, Linux and MQTT.
+
+🔭 Currently exploring LLMs and AI agents, with a focus on integrating AI capabilities into applications and backend systems.
+
+🏆 Participated in the Smart Stridsledning Hackathon, where I built a military command & control simulation using React, Python and two LLMs to generate dynamic attack and defense scenarios.
+
+⚡ My background is also a little different: before moving into software development, I spent 10+ years working with electrical systems, automation and technical troubleshooting. That experience has shaped how I approach software with a strong focus on problem-solving, reliability and practical solutions.
 ---
 
 ## 🌐 Socials:
@@ -66,32 +65,38 @@ Always learning, always shipping<br>
 # 🚀 Highlighted Projects:
 
 ### ⚡ IamSmart — LIA Project
-A full-stack smart EV charging platform built with Blazor Server and .NET 9. It automatically optimises when your electric vehicle charges based on real-time electricity spot prices from Tibber, your personal schedule, and live vehicle data from Volvo or Tesla APIs.
+A full-stack smart EV charging platform developed as my LIA/examensarbete at iThing AB.
 
-`C#` `Blazor Server` `.NET 9` `Tibber API` `Volvo API` `Tesla API`
+The system optimises EV charging based on electricity spot prices, user schedules, vehicle priorities and live vehicle data from Volvo and Tesla APIs. The backend communicates with EV chargers through MQTT, with containerised services running in a Linux/Docker environment.
+
+`C#` `Blazor Server` `.NET 9` `PostgreSQL` `MQTT` `Docker` `Linux` `Tibber API` `Volvo API` `Tesla API`
 
 🔗 [iamsmart.se](https://www.iamsmart.se)
 
 ---
 
 ### 🧠 Smart Stridsledning — Hackathon
-A military command & control simulation built during a hackathon. React frontend with a Python backend powered by two LLMs generating dynamic attack and defense scenarios.
+A military command & control simulation built during the Smart Stridsledning Hackathon.
+
+The project combines a React frontend with a Python backend and two LLMs that generate dynamic attack and defense scenarios.
 
 `React` `Python` `JavaScript` `LLM Integration`
 
 ---
 
 ### 🏋️ TrainingForum
-Full-stack training forum with separate Web UI and API layer, EF Core data access, and ASP.NET Identity for authentication.
+A full-stack training forum built with ASP.NET Core MVC, a separate Web API, Entity Framework Core and ASP.NET Identity.
 
-`C#` `ASP.NET Core` `EF Core` `Identity` `HTML`
+The application includes authentication, authorization, categories, subcategories and administrative CRUD functionality.
+
+`C#` `ASP.NET Core` `MVC` `Web API` `EF Core` `Identity` `SQL`
 
 🔗 [TrainingForum](https://github.com/Proxez/TrainingForum) · [TrainingForumApi](https://github.com/Proxez/TrainingForumApi)
 
 ---
 
 ### 🛒 FinalDatabaseAssignment — Stulna Produkter AB
-E-commerce order management desktop app with full CRUD — all powered by stored procedures.
+A desktop order-management application built with C#/.NET 8 and Windows Forms. The application uses SQL Server and T-SQL stored procedures for database access and CRUD operations.
 
 `C#` `.NET 8.0` `Windows Forms` `SQL Server` `T-SQL` `Stored Procedures`
 
@@ -103,7 +108,7 @@ E-commerce order management desktop app with full CRUD — all powered by stored
 
 | Project | Type | Stack |
 |---|---|---|
-| 🛍️ **WebShop Projects** | Multiple iterations (OOP → MAUI → Console) | C# |
+| 🛍️ **WebShop Projects** | Multiple iterations (OOP → Console) | C# |
 | 👥 **EmployeeApp.Web** | Group project — web app | C# · HTML |
 | 🛒 **Grupparbete-Ecommerce** | Group project — e-commerce frontend | HTML · CSS · JS |
 | 📝 **Grupparbete-Blogg** | Group project — blog | PHP · HTML · CSS · XAMPP |
