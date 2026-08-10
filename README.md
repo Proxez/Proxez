@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hey, I'm Viktor<br>
+👋 Hey, I'm Viktor
 
 I'm a **Junior .NET / Backend Developer** focused on building practical software with C# and .NET. I enjoy working with backend systems, APIs, databases and connected devices — especially when software has to interact with the real world.
 
@@ -10,7 +10,7 @@ My main experience includes **ASP.NET Core, Web APIs, Entity Framework Core, SQL
 
 🏆 Participated in the **Smart Stridsledning Hackathon**, where I built a military command & control simulation using React, Python and two LLMs to generate dynamic attack and defense scenarios.
 
-⚡ **Before moving into software development**, I spent 10+ years working with electrical systems, automation and technical troubleshooting. That experience has shaped how I approach software, with a strong focus on problem-solving, reliability and practical solutions.
+⚡ Before moving into software development, I spent **10+ years working with electrical systems, automation and technical troubleshooting**. That experience has shaped how I approach software, with a strong focus on problem-solving, reliability and practical solutions.
 ---
 
 ## 🌐 Socials:
