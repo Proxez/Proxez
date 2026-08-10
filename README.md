@@ -1,17 +1,16 @@
 # 💫 About Me:
 
 👋 Hey, I'm Viktor<br>
-I'm a Junior .NET / Backend Developer focused on building practical software with C# and .NET. I enjoy working with backend systems, APIs, databases and connected devices — especially when software has to interact with the real world.
 
-My main experience includes ASP.NET Core, Web APIs, Entity Framework Core, SQL, Blazor Server, Docker, Linux and MQTT.
+I'm a **Junior .NET / Backend Developer** focused on building practical software with C# and .NET. I enjoy working with backend systems, APIs, databases and connected devices — especially when software has to interact with the real world.
 
-🔭 Currently exploring LLMs and AI agents, with a focus on integrating AI capabilities into applications and backend systems.
+My main experience includes **ASP.NET Core, Web APIs, Entity Framework Core, SQL, Blazor Server, Docker, Linux and MQTT**.
 
-🏆 Participated in the Smart Stridsledning Hackathon, where I built a military command & control simulation using React, Python and two LLMs to generate dynamic attack and defense scenarios.
+🔭 Currently exploring **LLMs and AI agents**, with a focus on integrating AI capabilities into applications and backend systems.
 
-## ⚡ My Background
+🏆 Participated in the **Smart Stridsledning Hackathon**, where I built a military command & control simulation using React, Python and two LLMs to generate dynamic attack and defense scenarios.
 
-Before moving into software development, I spent 10+ years working with electrical systems, automation and technical troubleshooting. That experience has shaped how I approach software, with a strong focus on problem-solving, reliability and practical solutions.
+⚡ Before moving into software development, I spent **10+ years working with electrical systems, automation and technical troubleshooting**. That experience has shaped how I approach software, with a strong focus on problem-solving, reliability and practical solutions.
 ---
 
 ## 🌐 Socials:
